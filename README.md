@@ -3,4 +3,4 @@
 2. Webscraped the data using beautiful soup.
 2. Analysed the data using Tableau using bar plots.
 
-[![Capture.png](https://i.postimg.cc/rFLsvSRX/Capture.png)](https://postimg.cc/c6Xd3tcX)
+[![Capture.png](https://i.postimg.cc/T2Fn2NSF/Capture.png)](https://postimg.cc/G9P4qKbx)
